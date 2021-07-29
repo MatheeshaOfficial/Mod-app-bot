@@ -1,4 +1,54 @@
-<h1 align="center"><b>Mod app Search Bot 🇱🇰</b></h1>
+<h1 align="center"><b> ⭐️ Mod app Search Bot 🇱🇰  ⭐️ </b></h1>
+
+## SDBOTs Inifinity & SlBOTZone Production 🌟🌟
+
+## 👉My Updates Channel [EzilaXUpdates](https://t.me/Ezila_Updates)
+
+# ❤️ Support
+<a href="https://t.me/Ezila_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Ezila_Updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+## Credits ❤️
+
+ - Uniborg
+ - Telethon
+ - Pyrogram
+ - Skylee
+ - emilia
+
+## Special Credits
+
+- [supun](https://github.com/youtubeslgeekshow): Dev
+- [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity)
+
+Anything missing kindly let us know at [Devoloper](https://t.me/SDBOTs_inifinity) or simply submit a pull request on the readme.
+
+Should any be missing kindly let us know at [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/SDBOTs_inifinity) or simply submit a pull request on the readme.
+
+## Mod-App-Bot the telegram Bot Project
+The Advanced Branch (For PRO's)
+## Devs & Contributors
+
+#### • SUPUN    »»  <a href="https://github.com/youtubeslgeekshow" alt="sadew451"> <img src="https://img.shields.io/badge/sadew451-107D8D?logo=github" /></a> (DEV)
+#### • SADEW JAYASEKARA    »»  <a href="https://github.com/sadew451" alt="sadew451"> <img src="https://img.shields.io/badge/sadew451-107D8D?logo=github" /></a> (DEV) 
+#### • DAMANTHA JASINGHA    »»  <a href="https://github.com/damantha126" alt="damantha126"> <img src="https://img.shields.io/badge/damantha126-107D8D?logo=github" /></a> (DEV)
+
+## SDBots(advvanced)
+
+## Special Credits
+
+
+- [supun](https://github.com/youtubeslgeekshow) - A Co-Developer of Project ❤️
+- [sadew](https://github.com/sadew451) - A Co-Developer of Project ❤️
+- [Damantha](https://github.com/Damantha126) - A Co-Developer of Project ❤️
+- [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/SDBOTs_inifinity) - Main Updates Channel ⭐️
+- [TeamSDBOTs](https://github.com/TeamSDBOTs) - Our Team 🌟
+- [SLBOTZONE](https://t.me/slbotzone) -  🌟
+
+
+
+
+
 
 # Features 
 
