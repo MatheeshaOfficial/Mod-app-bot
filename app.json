@@ -81,7 +81,7 @@
         },
         "SHARE_BUTTON_TEXT": {
             "description": "A Massege for add to share button. If you want to change it you can change it here",
-            "value": "**Mod app  Search Bot 🇱🇰**\n\n`Here you can find any Mod app  by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @slbotzone 🇱🇰\nUpdates Channel: @sl_bot_zone 🇱🇰\nDevelopper : @supunma 🇱🇰",
+            "value": "@SDBOTs_inifinity",
             "required": false
         },
         "USE_CAPTION_FILTER": {
