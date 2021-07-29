@@ -1,5 +1,8 @@
 <h1 align="center"><b> ⭐️ Mod app Search Bot 🇱🇰  ⭐️ </b></h1>
 
+</a>
+  <p align="center"><a href="https://t.me/Ezila_Updates"><img src="https://telegra.ph/file/cbe204c499de7326250f1.jpg" width="400"></a></p>
+
 ## SDBOTs Inifinity & SlBOTZone Production 🌟🌟
 
 ## 👉My Updates Channel [Updates](https://t.me/SDBOTs_inifinity)
