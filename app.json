@@ -45,7 +45,7 @@
         },
         "UPDATES_CHANNEL": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
-            "required": false
+            "required": "-1001475839216"
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
@@ -67,7 +67,7 @@
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
-            "value": "",
+            "value": "1467358214 1391755824 1548967589",
             "required": false
         },
         "BANNED_USERS": {
