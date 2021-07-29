@@ -5,8 +5,8 @@
 ## 👉My Updates Channel [Updates](https://t.me/SDBOTs_inifinity)
 
 # ❤️ Support
-<a href="https://t.me/Ezila_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Ezila_Updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/SDBOTs_inifinity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/SL_bot_zone"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ## Credits ❤️
 
