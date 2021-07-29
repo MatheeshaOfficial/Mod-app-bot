@@ -32,7 +32,7 @@ Should any be missing kindly let us know at [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](h
 The Advanced Branch (For PRO's)
 ## Devs & Contributors
 
-#### • SUPUN    »»  <a href="https://github.com/youtubeslgeekshow" alt="youtubeslgeekshow"> <img src="https://img.shields.io/badge/sadew451-107D8D?logo=github" /></a> (DEV)
+#### • SUPUN    »»  <a href="https://github.com/youtubeslgeekshow" alt="supun"> <img src="https://img.shields.io/badge/youtubeslgeekshow-107D8D?logo=github" /></a> (DEV)
 #### • SADEW JAYASEKARA    »»  <a href="https://github.com/sadew451" alt="sadew451"> <img src="https://img.shields.io/badge/sadew451-107D8D?logo=github" /></a> (DEV) 
 #### • DAMANTHA JASINGHA    »»  <a href="https://github.com/damantha126" alt="damantha126"> <img src="https://img.shields.io/badge/damantha126-107D8D?logo=github" /></a> (DEV)
 
