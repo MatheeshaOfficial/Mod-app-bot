@@ -2,7 +2,7 @@
 
 ## SDBOTs Inifinity & SlBOTZone Production 🌟🌟
 
-## 👉My Updates Channel [EzilaXUpdates](https://t.me/Ezila_Updates)
+## 👉My Updates Channel [Updates](https://t.me/SDBOTs_inifinity)
 
 # ❤️ Support
 <a href="https://t.me/Ezila_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
