@@ -36,7 +36,7 @@ The Advanced Branch (For PRO's)
 #### • SADEW JAYASEKARA    »»  <a href="https://github.com/sadew451" alt="sadew451"> <img src="https://img.shields.io/badge/sadew451-107D8D?logo=github" /></a> (DEV) 
 #### • DAMANTHA JASINGHA    »»  <a href="https://github.com/damantha126" alt="damantha126"> <img src="https://img.shields.io/badge/damantha126-107D8D?logo=github" /></a> (DEV)
 
-## SDBots(advvanced)
+## SDBots(advanced)
 
 ## Special Credits
 
@@ -107,4 +107,5 @@ logger - Get log file
 stats - get recent user stats
 broadcast - broascast any message to all the users of the bot
 ```
-
+<h1> advanced Credits ( Thank you 💝 ) </h1> 
+- [Leo media search bot ](https://github.com/Naviya2/LeoMediaSearchBot) 
