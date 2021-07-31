@@ -85,7 +85,7 @@ async def channel_info(bot, message):
         os.remove(file)
 
 
-@Client.on_message(filters.command('total') & filters.user(ADMINS))
+@Client.on_message(filters.command('total') & filters.user(BOT_OWNER))
 async def total(bot, message):
     await AddUserToDatabase(bot, message)
     FSub = await ForceSub(bot, message)
@@ -148,12 +148,12 @@ async def delete(bot, message):
         await msg.edit('File not found in database\n@SDBOTs_inifinity Projects🇱🇰')
 
 
-@Client.on_message(filters.private & filters.command("broadcast") & filters.user(info.ADMINS) & filters.reply)
+@Client.on_message(filters.private & filters.command("broadcast") & filters.user(info.BOT_OWNER) & filters.reply)
 async def _broadcast(_, bot: Message):
     await broadcast_handler(bot)
 
 
-@Client.on_message(filters.private & filters.command("stats") & filters.user(info.ADMINS))
+@Client.on_message(filters.private & filters.command("stats") & filters.user(info.BOT_OWNER))
 async def show_status_count(_, bot: Message):
     total, used, free = shutil.disk_usage(".")
     total = humanbytes(total)
