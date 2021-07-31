@@ -108,4 +108,4 @@ stats - get recent user stats
 broadcast - broascast any message to all the users of the bot
 ```
 <h1> advanced Credits ( Thank you 💝 ) </h1> 
-- [Leo media search bot ](https://github.com/Naviya2/LeoMediaSearchBot) 
+[Leo media search bot] (https://github.com/Naviya2/LeoMediaSearchBot) 
