@@ -85,7 +85,7 @@ async def channel_info(bot, message):
         os.remove(file)
 
 
-@Client.on_message(filters.command('total') & filters.user(BOT_OWNER))
+@Client.on_message(filters.command('total') & filters.user(ADMINS))
 async def total(bot, message):
     await AddUserToDatabase(bot, message)
     FSub = await ForceSub(bot, message)
